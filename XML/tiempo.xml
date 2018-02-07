@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<meteorologia>
+	<precipitacion>55%</precipitacion>
+	<cielo>Intervalos nubosos</cielo>
+	<direccion_viento>Sureste</direccion_viento>
+	<velocidad_viento>10Km/h</velocidad_viento>
+	<temperatura_max>21ºC</temperatura_max>
+	<temperatura_min>10ºC</temperatura_min>
+	<sensacion_max>21ºC</sensacion_max>
+	<sensacion_min>10ºC</sensacion_min>
+	<humedad_max>90%</humedad_max>
+	<humedad_min>50%</humedad_min>
+	<ultravioleta>3</ultravioleta>
+</meteorologia>
