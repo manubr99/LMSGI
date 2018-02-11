@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<libro>
+	<datos>
+		<ISBN> codigo </ISBN>
+		<nombre> nombre_ordenadores </nombre>
+		<editorial> editorial </editorial>
+		<año_publicacion> año_publicacion </año_publicacion>
+		<autor> autor </autor>
+	</datos>
+	<diferencia>
+		<codigo_diferencia> codigo_diferencia </codigo_diferencia>
+	</diferencia>
+	<prestamo>
+		<ejemplar> ejemplar </ejemplar>
+		<socio_prestamo> socio </socio_prestamo>
+		<fecha_prestamo> fecha_prestamo </fecha_prestamo>
+	</prestamo>
+	<socio>
+		<dni> dni </dni>
+		<nombre_socio> nombre_socio </nombre_socio>
+		<direccion> direccion </direccion>
+	</socio>
+</libro>

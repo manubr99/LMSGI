@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<datos>
+	<primero> codigo_factura </primero>
+	<segundo> fecha_emision </segundo>
+	<tercero> 
+		<dni> dni </dni>
+		<nombre> nombre_clientes </nombre>
+		<direccion> direccion </direccion>
+		<codigo_postal> codigo_postal </codigo_postal>
+		<poblacion> pueblo </poblacion>
+	</tercero>
+	<venta>
+		<cantidad> cant_ventas </cantidad>
+		<denominacion> denominacion </denominacion>
+		<precio> precio_unitario </precio>
+	</venta>
+	<iva> iva </iva>
+	<descuento> descuento_total </descuento>
